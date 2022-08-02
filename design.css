@@ -210,7 +210,7 @@
         margin-top: 9.17%;
     }
     .context1{
-        margin-right: 0;
+        margin-right: 0px;
     }
    }
    /* WELCOME SECTION ENDS */
@@ -220,7 +220,7 @@
     {
         flex-basis: 100%;
         margin-bottom: 16px;
-        margin-right:0;
+        margin-right:0px;
     }
     .program
     {
